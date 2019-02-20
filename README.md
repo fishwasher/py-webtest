@@ -1,4 +1,4 @@
-# Testing URLs
+# Python Web Crawler for testing URLs
 
 ## checkurl.py
 
